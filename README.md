@@ -3,7 +3,7 @@
 An online portal to register your business and let your customers order the products from comfort of their home..Can be used by Shopkeepers,Grocery Stores,Cloth Stores etc.
 
 
-#To get this project now
+# To get this project now
 
 1. clone the repo
 
