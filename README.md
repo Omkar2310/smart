@@ -2,6 +2,7 @@
 
 An online portal to register your business and let your customers order the products from comfort of their home..Can be used by Shopkeepers,Grocery Stores,Cloth Stores etc.
 
+Live (https://swadeshimart.herokuapp.com/)
 
 # To get this project now
 
@@ -14,3 +15,4 @@ An online portal to register your business and let your customers order the prod
 4. now update the firebase config in src/firebase folder with your firebase config. 
 
 5. after this do npm start
+
